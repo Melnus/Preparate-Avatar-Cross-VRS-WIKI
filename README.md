@@ -5,3 +5,8 @@
   
 Wiki  
 https://preparate-avatar-introduction.memo.wiki/
+  
+Wiki Backup  
+https://github.com/Melnus/Preparate-Avatar-Cross-VRS-WIKI/wiki
+  
+  
